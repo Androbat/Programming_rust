@@ -1,3 +1,5 @@
+mod parse_commands;
+
 use num::Complex;
 
 // GENERIC struct example
