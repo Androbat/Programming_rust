@@ -13,6 +13,11 @@ fn panics(){
     }
 }
 
+// fn infinity_values(){
+//     // INFINITY, MAX, MIN
+//     assert!((-1 / f32::INFINITY).is_sign_negative());
+// }
+
 fn checked_values_math_op(){
     let x:i32 = 300;
     let y:i32 = 200;
