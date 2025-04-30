@@ -1,3 +1,5 @@
+mod custom_type_error;
+
 fn main() {
     println!("Hello, world!");
 }
