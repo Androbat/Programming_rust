@@ -1,0 +1,9 @@
+[package]
+name = "creates_and_modules"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[profile.release]
+debug = true   # enalbe debug symbols in release builds
